@@ -1,12 +1,19 @@
 Create VM
+
+
 <img width="452" alt="image" src="https://github.com/kennyanju/lampstack/assets/10983149/425e9b9e-44a2-45d7-b285-7b79fe419293">
 <img width="452" alt="image" src="https://github.com/kennyanju/lampstack/assets/10983149/290185fa-3680-4b03-a01a-60e45bf168bc">
 
+
 SSH into vm
-<img width="452" alt="image" src="https://github.com/kennyanju/lampstack/assets/10983149/73801154-1a8c-4096-980b-7aa6ceb0a09e">
+
+<img width="452" alt="image" src="https://github.com/kennyanju/lampstack/assets/10983149/a6dcde00-140c-442b-934f-fb0d95f0d153">
 
 Update and upgrade VM
 azureuser@lampstackimplementation:~$ sudo apt update
+
+<img width="452" alt="image" src="https://github.com/kennyanju/lampstack/assets/10983149/291ca094-c9dc-4362-a006-0ec0e1da0805">
+
 ```
 sudo apt upgrade
 ```
